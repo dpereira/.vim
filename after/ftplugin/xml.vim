@@ -1,1 +1,1 @@
-hugetabs
+bigtabs

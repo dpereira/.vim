@@ -7,4 +7,6 @@ set nowrap
 set number
 set expandtab
 filetype on
+filetype plugin on
+filetype indent on
 syn on
