@@ -6,6 +6,7 @@ set autoindent
 set nowrap
 set number
 set expandtab
+set exrc
 filetype on
 filetype plugin on
 filetype indent on
