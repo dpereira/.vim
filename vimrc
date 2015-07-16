@@ -1,9 +1,8 @@
-# aliases
-cnoreabbrev smalltabs set shiftwidth=2 | set tabstop=2
-cnoreabbrev bigtabs set shiftwidth=4 | set tabstop=4
-cnoreabbrev hugetabs set shiftwidth=8 | set tabstop=8
+" aliases
+set shiftwidth=2
+set tabstop=2
 
-# settings
+" settings
 set smarttab
 set autoindent
 set nowrap
@@ -15,9 +14,10 @@ filetype plugin on
 filetype indent on
 syn on
 
-# pathogen
+" pathogen
 call pathogen#infect()
 call pathogen#helptags()
 
-# spell checking
+" spell checking
 setlocal spell spelllang=en_us
+
