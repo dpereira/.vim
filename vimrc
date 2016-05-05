@@ -1,5 +1,6 @@
 " settings
 execute pathogen#infect()
+call pathogen#helptags()
 set shiftwidth=2
 set tabstop=2
 set smarttab
