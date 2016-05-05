@@ -1,8 +1,7 @@
-" aliases
+" settings
+execute pathogen#infect()
 set shiftwidth=2
 set tabstop=2
-
-" settings
 set smarttab
 set autoindent
 set nowrap
